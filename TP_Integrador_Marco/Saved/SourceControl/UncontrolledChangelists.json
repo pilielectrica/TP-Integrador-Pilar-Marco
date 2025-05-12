@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Repos/TP-Integrador-Pilar-Marco/TP_Integrador_Marco/Content/bp/BP_Indicador_Luz.uasset",
+				"C:/Repos/TP-Integrador-Pilar-Marco/TP_Integrador_Marco/Content/bp/BP_Trampa.uasset",
+				"C:/Repos/TP-Integrador-Pilar-Marco/TP_Integrador_Marco/Content/bp/BP_Gas_Tpxico.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/TP_Integrador_Marco/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/TP_Integrador_Marco/Content/bp/BP_Trampa.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/TP_Integrador_Marco/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9Q/QWCQII9OE7CXGGNKGKG50Q.uasset",
